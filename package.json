@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-memory-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "memory-limits.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/debug-agent": "^4.0.4"
+  }
+}
